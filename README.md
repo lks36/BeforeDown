@@ -31,13 +31,11 @@ Pour une analyse détaillée du développement, de l'architecture technique et d
 ## Assets et Ressources
 * **Graphismes :** Modèles 3D adaptés depuis Mixamo et Unity Free Assets (Kenney) pour une esthétique soignée.
 * **Audio :** Effets sonores et musiques d'ambiance provenant de "Soundscrate".
-* **Site Web :** Plateforme de présentation incluant les statistiques des personnages et les liens de téléchargement.
 
 ## Installation
 Le jeu est prêt à être testé sur macOS :
 * **Installation Mac :** Téléchargez le fichier [BeforeDawn.pkg](./BeforeDawn.pkg) présent dans les releases ou à la racine du dépôt. 
 * **Note :** Ce package installe l'exécutable complet ainsi que les ressources nécessaires pour jouer sur votre Mac.
-* Une version Windows est également supportée par le projet.
 
 ---
 *Projet réalisé dans le cadre de la première année à l'EPITA, finalisé le 6 juin 2023.*
