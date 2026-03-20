@@ -35,7 +35,7 @@ Pour une analyse détaillée du développement, de l'architecture technique et d
 ## Installation
 Le jeu est prêt à être testé sur macOS :
 * **Installation Mac :** Téléchargez le fichier [BeforeDawn.pkg](./BeforeDawn.pkg) présent dans les releases ou à la racine du dépôt. 
-* **Note :** Ce package installe l'exécutable complet ainsi que les ressources nécessaires pour jouer sur votre Mac.
+* **Note :** Ce package installe l'exécutable complet, lisez le fichier [UserManuel](./UserManuel.pdf) présent dans les releases ou à la racine du dépôt.
 
 ---
-*Projet réalisé dans le cadre de la première année à l'EPITA, finalisé le 6 juin 2023.*
+*Projet finalisé le 6 juin 2023.*
